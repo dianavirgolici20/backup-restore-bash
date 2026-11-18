@@ -1,0 +1,4 @@
+backups/
+*.swp
+*~
+.DS_Store
